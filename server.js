@@ -13,7 +13,7 @@ Fall 2021
  */
 
 var app = require('./config/app');
-var debug = require('debug')('week03-009:server');
+var debug = require('debug')('comp229009-f2021-midterm-301122261:server');
 var http = require('http');
 
 /**

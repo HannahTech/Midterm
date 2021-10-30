@@ -7,6 +7,5 @@ Fall 2021
 */
 
 module.exports = {
-    //"AtlasDB": ""
-    "URI": "mongodb://localhost/Mybooks"
+    "AtlasDB": "mongodb+srv://IamHeny:comp229@hengamehserver.gpeay.mongodb.net/Mybooks?retryWrites=true&w=majority"
 }
