@@ -10,7 +10,7 @@ console.log('Goes to the client side.');
 
 if(getTitle == "Book List")
 {
-    let deleteButtons = document.querySelectorAll('.btn-danger');
+    let deleteButtons = document.querySelectorAll('.btn-secondary');
         
     for(button of deleteButtons)
     {
