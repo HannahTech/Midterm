@@ -8,7 +8,7 @@ Fall 2021
 
 console.log('Goes to the client side.');
 
-if(getTitle == "Book List")
+if(getTitle == "List of Books")
 {
     let deleteButtons = document.querySelectorAll('.btn-secondary');
         
